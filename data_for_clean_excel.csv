@@ -1,0 +1,36 @@
+Order ID,customer name,Email,Phone,Amount,Date,City
+1001,Ali khan,ali@gmail.com,0301-2345678,5000,1/2/24,karachi
+1002,Sana  Ahmed,sana@gmail.com,3012345678,7000,01-02-2024,Karachi
+1003,ali Khan,ALI@gmail.com,+92 3012345678,5000,02/01/2024,KARACHI
+1004,John  Doe,john@,12345,,2024/02/01,Lahore
+1005,Ahmed Ali,ahmed@gmail.com,0301 2345678,7000,Feb 1 2024,lahore
+1006,Ahmed Ali,ahmed@gmail.com,0301 2345678,7000,01-02-24,Lahore
+1007,Maria Khan,maria@gmail,0302-9988776,4500,2024-02-01,Islamabad
+1008,maria  khan,MARIA@gmail.com,3029988776,4500,01/02/2024,islamabad
+1009,Usman Raza,usman@gmail.com,0303 1122334,9000,2-1-24,Karachi
+1010,Usman  Raza,usman@gmail.com,0303-1122334,9000,02/01/2024,karachi
+1011,Farhan Ali,farhan@gmail.com,0311-4455667,12000,2024.02.01,Lahore
+1012,Farhan ali,farhan@gmail.com,3114455667,12000,01 Feb 2024,LAHORE
+1013,Ayesha Noor,ayesha@gmail.com,0321-7788990,6500,1 Feb 24,Rawalpindi
+1014,Ayesha  Noor,ayesha@gmail,3217788990,6500,2024/2/1,rawalpindi
+1015,Hassan Khan,hassan@gmail.com,0333-5566778,8000,01-02-2024,Karachi
+1016,Hassan Khan,hassan@gmail.com,0333 5566778,8000,01/02/24,karachi
+1017,Imran Malik,imran@gmail.com,0345-6677889,11000,2024-02-01,Multan
+1018,Imran  Malik,IMRAN@gmail.com,3456677889,11000,1-2-24,multan
+1019,Zara Shah,zara@gmail.com,0300-1112223,7200,02/01/2024,Lahore
+1020,Zara Shah,zara@gmail.com,3001112223,7200,2 Feb 2024,lahore
+1021,Kamran Iqbal,kamran@gmail.com,0312-9988776,9500,01-02-24,Karachi
+1022,Kamran  Iqbal,kamran@gmail,3129988776,9500,2024/02/01,KARACHI
+1023,Nida Fatima,nida@gmail.com,0304-2233445,6000,01 Feb 2024,Islamabad
+1024,Nida  Fatima,nida@gmail.com,3042233445,6000,1/2/24,islamabad
+1025,Saad Ahmed,saad@gmail.com,0322-4455667,8700,2024.02.01,Lahore
+1026,Saad Ahmed,saad@gmail.com,3224455667,8700,02-01-2024,lahore
+1027,Ali Raza,ali.raza@gmail.com,0306-7788990,5000,01-02-24,Karachi
+1028,Ali  Raza,ali.raza@gmail.com,3067788990,5000,2024/02/01,karachi
+1029,Noor Hassan,noor@gmail.com,0331-2233445,9100,1 Feb 2024,Faisalabad
+1030,Noor  Hassan,noor@gmail,3312233445,9100,02/01/2024,faisalabad
+1031,Asad Khan,asad@gmail.com,0341-5566778,10000,01-02-2024,Karachi
+1032,Asad  Khan,ASAD@gmail.com,3415566778,10000,1/2/24,karachi
+1033,Mehwish Ali,mehwish@gmail.com,0315-6677889,7300,2024-02-01,Lahore
+1034,Mehwish  Ali,mehwish@gmail.com,3156677889,7300,02/01/24,lahore
+1035,Unknown,,0,,,
